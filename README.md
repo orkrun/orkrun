@@ -1,5 +1,5 @@
 # Hi, I'm Orkun Efe Özdemir
-🎓 Computer Engineering Student at Izmir University of Economics<br>🔭 Passionate about Character Design ,Game Development, and Software Engineering<br><br>
+🎓 Computer Engineering Student at Izmir University of Economics<br>🔭 Passionate about Character Design ,Game Development, and Software Engineering orkuneozdemir.vercel.app/<br><br>
 
 
 ## 🌐 Socials:
